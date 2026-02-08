@@ -13,3 +13,4 @@ pip install -r requirements.txt
 
 ### Цель проекта
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков dvmn.org.
+> ![text alt](https://github.com/user-attachments/assets/1f1bd29a-3645-4491-a371-6adfd183a1da)
